@@ -2,6 +2,46 @@
     {
         "name": "Doodle Baseball",
         "slug": "doodle-baseball",
-        "image": "/cache/data/image/game/doodle-baseball/doodlebaseball-m186x186.webp"
+        "image": "/cache/data/image/game/doodle-baseball/doodle-baseball-game-m186x186.webp"
+    },
+    {
+        "name": "Doodle Cricket",
+        "slug": "doodle-cricket",
+        "image": "/cache/data/image/game/doodle-cricket/doodle-cricket-game-m186x186.webp"
+    },
+    {
+        "name": "Baseball 9",
+        "slug": "baseball-9",
+        "image": "/cache/data/image/game/baseball-9/baseball-9-m186x186.webp"
+    },
+    {
+        "name": "Baseball Bros",
+        "slug": "baseball-bros",
+        "image": "/cache/data/image/game/baseball-bros/baseball-bros-m186x186.webp"
+    },
+    {
+        "name": "Hotfoot Baseball",
+        "slug": "hotfoot-baseball",
+        "image": "/cache/data/image/game/hotfoot-baseball/hotfoot-baseball-m186x186.webp"
+    },
+    {
+        "name": "Baseball Bat",
+        "slug": "baseball-bat",
+        "image": "/cache/data/image/game/baseball-bat/baseball-bat-m186x186.webp"
+    },
+    {
+        "name": "Ultimate Baseball",
+        "slug": "ultimate-baseball",
+        "image": "/cache/data/image/game/ultimate-baseball/ultimate-baseball-m186x186.webp"
+    },
+    {
+        "name": "Nick Baseball Stars",
+        "slug": "nick-baseball-stars",
+        "image": "/cache/data/image/game/nick-baseball-stars/nick-baseball-stars-m186x186.webp"
+    },
+    {
+        "name": "Super Baseball",
+        "slug": "super-baseball",
+        "image": "/cache/data/image/game/super-baseball/super-baseball-m186x186.webp"
     }
 ]
